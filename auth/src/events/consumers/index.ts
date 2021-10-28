@@ -1,0 +1,1 @@
+export { userCreatedConsumer } from './user-created-consumer'
